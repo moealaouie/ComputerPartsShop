@@ -2,13 +2,13 @@
 /**
  * cart.php
  *
- * Project 2
+ * Project 
  *
  * @category   Project
- * @package    Project 2
- * @author     Mohamed Alaouie <mhalaouie@hawkmail.hfcc.edu
- * @version    2019.12.10
- * @link       https://cislinux.hfcc.edu/~mhalaouie/cis222/Project2/cart.php
+ * @package    Project 
+ * @author     Mohamed Alaouie <malaouie@emich.edu
+ * @version    8/2/2021
+ * @link       https://moealaouie.github.io/ComputerPartsShop/cart.php
  */
 
 session_start();

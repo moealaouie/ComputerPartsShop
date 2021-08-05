@@ -1,9 +1,3 @@
-Could not figure out how to create the export file in phpstorm so i just copied the sql scripts
-
-
-
-
-
 
 INSERT INTO mhalaouie.customers (customer_id, customer_name, customer_address, customer_phone, customer_email, customer_feedback, customer_username, customer_password) VALUES (1, 'Rolando	Chambers', '92 Cross Street
 Decatur, GA 30030', '(787) 699-7229', 'RC@gmail.com', 'sss', '', '');

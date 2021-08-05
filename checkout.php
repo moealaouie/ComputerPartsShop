@@ -8,7 +8,7 @@
  * @package    Project 
  * @author     Mohamed Alaouie <malaouie@emich.edu
  * @version    8/2/2021
- * @link       
+ * @link       https://moealaouie.github.io/ComputerPartsShop/checkout.php
  */
 error_reporting(E_ALL);
 ini_set('display_errors', '1');
